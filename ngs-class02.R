@@ -2,7 +2,7 @@
 
 ### SMALL HEADER
 
-``` {R}
+#``` {R}
 # vectors
 
 # character vector, numeric vector, logical vector & factor
@@ -34,6 +34,6 @@ char_vec_many[!logical_vec]
 
  
 
-```
+#```
 
 
