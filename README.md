@@ -20,3 +20,7 @@ C2F <- function(C) {F=(C*9/5)+32;print(paste0(F, "F"))}
 
 F2C<-function(F) {C=(5/9)*(F-32);print(paste0(C, "C"))}
 ```
+
+
+
+kangna
